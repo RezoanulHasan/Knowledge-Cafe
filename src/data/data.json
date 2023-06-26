@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "author": "John Doe",
+    "title": "First Blog Post",
+    "images": {
+      "cover": "https://example.com/cover1.jpg",
+      "author": "https://example.com/author1.jpg"
+    },
+    "readTime": "10 min",
+    "publishDate": "2022-03-01"
+  },
+  {
+    "id": 2,
+    "author": "Jane Smith",
+    "title": "Second Blog Post",
+    "images": {
+      "cover": "https://example.com/cover2.jpg",
+      "author": "https://example.com/author2.jpg"
+    },
+    "readTime": "15 min",
+    "publishDate": "2022-03-10"
+  },
+  {
+    "id": 3,
+    "author": "Bob Johnson",
+    "title": "Third Blog Post",
+    "images": {
+      "cover": "https://example.com/cover3.jpg",
+      "author": "https://example.com/author3.jpg"
+    },
+    "readTime": "20 min",
+    "publishDate": "2022-03-15"
+  },
+  {
+    "id": 4,
+    "author": "Alice Brown",
+    "title": "Fourth Blog Post",
+    "images": {
+      "cover": "https://example.com/cover4.jpg",
+      "author": "https://example.com/author4.jpg"
+    },
+    "readTime": "25 min",
+    "publishDate": "2022-03-20"
+  }
+]
