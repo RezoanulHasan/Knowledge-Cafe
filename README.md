@@ -1,6 +1,6 @@
 # Project Name :  Knowledge Cafe 
 
-# Project type : Front-End
+ Project type : Front-End
 
 # live link-https://jazzy-mousse-49c4ca.netlify.app/
 Features:
